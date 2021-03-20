@@ -28,9 +28,6 @@ function App() {
           <Route exact path='/about'>
             <About />
           </Route>
-          {/* <Route exact path='/auth'>
-          <Auth />
-        </Route> */}
           <Route exact path='/cart'>
             <Cart />
           </Route>
